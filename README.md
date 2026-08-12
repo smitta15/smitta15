@@ -1,44 +1,208 @@
 # Hi, I'm Mitta Sujana 👋
-### Full-Stack Developer 
 
-💻 I build **modern web applications** using **HTML, CSS, JavaScript, Tailwind, React, Node.js, Express, MongoDB, and Next.js**.  
-🌱 Currently exploring **advanced Next.js features, full-stack performance optimizations, and real-world projects**.  
-🎯 I love creating apps that are **user-friendly, responsive, and scalable**.  
+### AI Engineer & Full-Stack Developer
 
----
+💻 I build **AI-powered applications and modern full-stack web platforms** using Python, JavaScript, React, Next.js, Node.js, and MongoDB.
 
-### 🛠️ Tech Stack
+🤖 I'm exploring **Generative AI, LLMs, AI Agents, LangGraph, NLP, RAG, document intelligence, and AI-powered automation**.
 
-![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+🚀 I enjoy building practical applications that combine **AI intelligence with clean, user-friendly web experiences**.
+
+🎯 Currently focused on building **real-world AI projects, agentic applications, and scalable full-stack systems**.
 
 ---
 
-### 📂 Projects
+## 🛠️ Tech Stack
 
-Here are some of my best projects (pin these in GitHub for recruiters):
+### 🤖 AI & Generative AI
 
-3. **Get Me Chai (Payment App)** – [GitHub Repo](https://github.com/sujana15/Get-me-a-Chai) | Html,TailwindCss,React, Node.js, MongoDB
-4. **E-Commerce** – [GitHub Repo](https://github.com/sujana15/E-Commerce) | HTML, TailwindCSS, React,Next js,Node js,Mongodb,ExpressJs
-4. **BitTree** – [GitHub Repo](https://github.com/sujana15/LinkTree) | HTML, TailwindCSS,Next js,Mongodb,ExpressJs
-5. **Shopaura** – [GitHub Repo](https://github.com/sujana15/shopaura) | HTML, Css 
-6. **To-Do List** – [GitHub Repo](https://github.com/sujana15/To-Do-List) | Html,TailwindCss,React 
+* Python
+* Generative AI
+* Large Language Models (LLMs)
+* AI Agents
+* LangChain
+* LangGraph
+* Natural Language Processing (NLP)
+* Retrieval-Augmented Generation (RAG)
+* AI-powered document processing
+* Prompt Engineering
+
+### 💻 Frontend
+
+* HTML
+* CSS
+* JavaScript
+* React
+* Next.js
+* Tailwind CSS
+
+### ⚙️ Backend
+
+* Node.js
+* Express.js
+* Python
+* REST APIs
+
+### 🗄️ Databases
+
+* MongoDB
+* SQL
+* Database-backed applications
+
+### 🛠️ Tools
+
+* Git
+* GitHub
+* VS Code
+* Linux
+* REST APIs
 
 ---
 
-### 📈 GitHub Stats
+## 🤖 AI Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sujana15&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=sujana15&layout=compact&theme=radical)
+### 🚀 CareerPilot AI
+
+An AI-powered career platform designed to help users discover job opportunities and improve their job-application workflow.
+
+**Focus:** AI Agents • Job Intelligence • Resume Tailoring • Career Assistance
 
 ---
 
+### 🎥 YouTube Summarizer
 
-⭐ **I’m always open to collaborations, internships, and exciting projects!**
+An AI-powered application that processes YouTube content and generates concise summaries, making long-form videos easier to understand.
+
+**Focus:** Generative AI • NLP • LLM Summarization
+
+---
+
+### 🧑‍💻 AI Mock Interviewer
+
+An interactive AI interview practice application where users select a topic, receive AI-generated interview questions, submit their answers, and receive AI-powered evaluation and feedback.
+
+**Focus:** LLMs • Question Generation • AI Evaluation • NLP
+
+---
+
+### 🤖 LangGraph AI Chatbot
+
+A conversational AI application built with LangGraph that can process PDF documents, answer questions based on their content, support real-time conversations, and store conversation history in a database.
+
+**Focus:** LangGraph • LLMs • PDF Processing • RAG • Conversational AI • Database Persistence
+
+---
+
+## 🌐 Full-Stack Projects
+
+### ☕ Get Me Chai
+
+Payment and creator-support platform.
+
+**Tech:** HTML • Tailwind CSS • React • Node.js • MongoDB
+
+🔗 [GitHub Repository](https://github.com/sujana15/Get-me-a-Chai)
+
+---
+
+### 🛒 E-Commerce
+
+Full-stack e-commerce application with a modern web interface and backend services.
+
+**Tech:** HTML • Tailwind CSS • React • Next.js • Node.js • Express.js • MongoDB
+
+🔗 [GitHub Repository](https://github.com/sujana15/E-Commerce)
+
+---
+
+### 🔗 BitTree
+
+A Linktree-inspired platform for managing and sharing links through a personalized profile.
+
+**Tech:** HTML • Tailwind CSS • Next.js • Express.js • MongoDB
+
+🔗 [GitHub Repository](https://github.com/sujana15/LinkTree)
+
+---
+
+### 🛍️ ShopAura
+
+A web-based shopping application focused on creating a simple and responsive user experience.
+
+**Tech:** HTML • CSS
+
+🔗 [GitHub Repository](https://github.com/sujana15/shopaura)
+
+---
+
+### ✅ To-Do List
+
+A simple task-management application with a responsive interface.
+
+**Tech:** HTML • Tailwind CSS • React
+
+🔗 [GitHub Repository](https://github.com/sujana15/To-Do-List)
+
+---
+
+## 📊 What I'm Interested In
+
+```text
+Artificial Intelligence
+Generative AI
+AI Agents
+LLMs
+LangGraph
+LangChain
+RAG
+Natural Language Processing
+AI Automation
+Full-Stack Development
+React & Next.js
+Backend Development
+Scalable Web Applications
+```
+
+---
+
+## 🎯 Currently Learning
+
+* Advanced LLM application development
+* AI agent architectures
+* LangGraph workflows
+* Retrieval-Augmented Generation
+* AI-powered automation
+* Production-ready AI applications
+* Full-stack system design
+* Scalable backend architectures
+
+---
+
+## 📈 GitHub Stats
+
+<!-- Add GitHub statistics cards here if desired -->
+
+---
+
+## 👩‍💻 About Me
+
+I'm a Computer Science & Engineering student interested in building **practical AI systems and full-stack applications**.
+
+I enjoy taking an idea from **concept → backend → AI workflow → frontend → deployment** and turning it into a working product.
+
+I'm particularly interested in opportunities involving:
+
+**AI Engineering • Generative AI • AI Agents • Machine Learning • NLP • Full-Stack Development**
+
+---
+
+## 🤝 Let's Connect
+
+⭐ I'm open to **AI internships, software development internships, collaborations, and interesting AI projects**.
+
+If you're working on something involving **AI, automation, agents, or full-stack development**, I'd love to connect!
+
+---
+
+⭐ **Thanks for visiting my profile!**
+
